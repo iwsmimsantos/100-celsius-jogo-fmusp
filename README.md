@@ -1,3 +1,15 @@
+## Minha participação (Iasmim Santos)
+
+Projeto em grupo de 10 semanas no Inteli, com a Faculdade de Medicina da USP (fev/2024 a abr/2024). Esta é a cópia pública que o Inteli publicou. Meus 53 commits estão no repositório original do grupo, que é privado.
+
+- Montei as fases do jogo: posicionei e ajustei os obstáculos das fases 1, 2 e 3 e corrigi as colisões (hitboxes).
+- Implementei o bestiário e corrigi bugs da fase 1.
+- Documentei o código do jogador e da cena inicial.
+
+**Tecnologias:** JavaScript, HTML e CSS
+
+---
+
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <div align="center">
